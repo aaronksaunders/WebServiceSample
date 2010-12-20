@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/scm/!svn/ver/340/projects/clearlyinnovative/titanium/WebServiceSample/build/iphone
+END
+project.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/scm/!svn/ver/340/projects/clearlyinnovative/titanium/WebServiceSample/build/iphone/project.xcconfig
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/scm/!svn/ver/340/projects/clearlyinnovative/titanium/WebServiceSample/build/iphone/.gitignore
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/scm/!svn/ver/340/projects/clearlyinnovative/titanium/WebServiceSample/build/iphone/main.m
+END
+Info.plist.template
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/scm/!svn/ver/340/projects/clearlyinnovative/titanium/WebServiceSample/build/iphone/Info.plist.template
+END
+WebServiceSample_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/scm/!svn/ver/340/projects/clearlyinnovative/titanium/WebServiceSample/build/iphone/WebServiceSample_Prefix.pch
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/scm/!svn/ver/340/projects/clearlyinnovative/titanium/WebServiceSample/build/iphone/Info.plist
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/scm/!svn/ver/340/projects/clearlyinnovative/titanium/WebServiceSample/build/iphone/README
+END
+module.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/scm/!svn/ver/340/projects/clearlyinnovative/titanium/WebServiceSample/build/iphone/module.xcconfig
+END

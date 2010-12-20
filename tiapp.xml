@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+<id>com.clearlyinnovative.WebServiceSample</id>
+<name>WebServiceSample</name>
+<version>1.0</version>
+<publisher>aaronksaunders</publisher>
+<url>www.clearlyinnovative.com</url>
+<description>No description provided</description>
+<copyright>2010 by aaronksaunders</copyright>
+<icon>default_app_logo.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <fullscreen>false</fullscreen>
+    <navbar-hidden>false</navbar-hidden>
+    <analytics>true</analytics>
+<guid>2b3d47d5-620d-44a7-ae64-5d57a2d666f2</guid>
+</ti:app>

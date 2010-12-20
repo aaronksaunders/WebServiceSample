@@ -1,0 +1,34 @@
+10
+
+dir
+340
+http://svngetitright.dreamhosters.com/scm/projects/clearlyinnovative/titanium/WebServiceSample/build
+http://svngetitright.dreamhosters.com/scm
+
+
+
+2010-11-15T22:32:04.387626Z
+340
+asaunders
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+21df9703-540e-4471-9e4e-80eb107d6635
+
+android
+dir
+
+iphone
+dir
+
